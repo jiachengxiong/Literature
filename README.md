@@ -3,7 +3,7 @@ This is a collection of recent parpers of graph neural network applied in drug d
 
 ## Contents
 - [Review](#Review)
-- [Papers](#papers)
+- [articles](#articles)
   - [Recuurent Graph Neural Networks](#rgnn)
   - [Convolutional Graph Neural Networks](#cgnn)
   - [Graph Autoencoders](#gae)
@@ -23,3 +23,8 @@ This is a collection of recent parpers of graph neural network applied in drug d
 <a name="Review" />
 
 ## Review
+<a name="articles" />
+
+## articles
+
+## predict molecule's properties
