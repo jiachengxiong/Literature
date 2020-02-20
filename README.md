@@ -4,4 +4,31 @@ This is a collection of recent parpers of graph neural network applied in drug d
 ## Contents
 - [Survey papers](#surveypapers)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Survey papers
