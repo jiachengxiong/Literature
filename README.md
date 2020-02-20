@@ -2,7 +2,7 @@
 This is a collection of recent parpers of graph neural network applied in drug discovery
 
 ## Contents
-- [Survey papers](#surveypapers)
+- [Review](#Review)
 - [Papers](#papers)
   - [Recuurent Graph Neural Networks](#rgnn)
   - [Convolutional Graph Neural Networks](#cgnn)
@@ -20,33 +20,5 @@ This is a collection of recent parpers of graph neural network applied in drug d
      - [Physics](#physics)
      - [Others](#others)
 - [Library](#library)
-<a name="surveypapers" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Survey papers
+<a name="Review" />
+## Review
