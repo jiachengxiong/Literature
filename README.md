@@ -5,7 +5,7 @@ This is a collection of recent parpers of graph neural network applied in drug d
 - [Review](#Review)
 - [Articles](#Articles)
   - [Prediction of Molecular Properties](#Properties)
-      - [Small Molecular](#Small Molecular)
+      - [Small Molecular](#Small_Molecular)
       - [Protien](#Protien)
   - [Convolutional Graph Neural Networks](#cgnn)
   - [Graph Autoencoders](#gae)
@@ -31,6 +31,6 @@ This is a collection of recent parpers of graph neural network applied in drug d
 <a name="Properties" />
 
 ## Prediction of Molecular Properties
-<a name="Small Molecular" />
+<a name="Small_Molecular" />
 
 ### Small Molecular
