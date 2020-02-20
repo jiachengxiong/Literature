@@ -12,7 +12,7 @@ This is a collection of recent parpers of graph neural network applied in drug d
       - [Prediction of Specific Types of Chemical Reactions](#Specific)
   - [Molecule Generation](#Generation)
       - [Based on GAN](#GAN)
-  	  - [Based on VAE](#VAE)
+      - [Based on VAE](#VAE)
       - [Based on Autoregression](#Autoregression)
       - [Based on Invertible Flow](#Flow)
       - [Based on Chemical Reaction](#Reaction)
@@ -24,7 +24,6 @@ This is a collection of recent parpers of graph neural network applied in drug d
       - [Disease-lncRNA Association](#DlA)
       - [Drug-miRNA Association](#DmA)
       - [Disease-Gene Association](#DGA)
-
 
 <a name="Review" />
 
@@ -50,5 +49,45 @@ This is a collection of recent parpers of graph neural network applied in drug d
 <a name="Specific" />
 
 ### Prediction of Specific Types of Chemical Reactions
+<a name="Generation" />
 
 ## Molecule Generation
+<a name="GAN" />
+
+### Based on GAN
+<a name="VAE" />
+
+### Based on VAE
+<a name="Autoregression" />
+
+### Based on Autoregression
+<a name="Flow" />
+
+### Based on Invertible Flow
+<a name="Reaction" />
+
+### Based on Chemical Reaction
+<a name="Interaction" />
+
+## Interaction & Association Prediction
+<a name="DTI" />
+
+### Drug-Target Interaction
+<a name="DDI" />
+
+### Drug-Drug Interaction
+<a name="PPI" />
+
+### Protien-Protein Interaction
+<a name="SSI" />
+
+### Solute-Solvent Interaction
+<a name="DlA" />
+
+### Disease-lncRNA Association
+<a name="DmA" />
+
+### Drug-miRNA Association
+<a name="DGA" />
+
+### Disease-Gene Association
