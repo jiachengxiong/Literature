@@ -2,6 +2,6 @@
 This is a collection of recent parpers of graph neural network applied in drug discovery
 
 ## Contents
-- [review]
+- [Survey papers](#surveypapers)
 
-## review
+## Survey papers
