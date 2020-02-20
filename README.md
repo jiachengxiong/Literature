@@ -4,33 +4,51 @@ This is a collection of recent parpers of graph neural network applied in drug d
 ## Contents
 - [Review](#Review)
 - [Articles](#Articles)
-  - [Prediction of Molecular Properties](#Properties)
+  - [Property Prediction](#Properties)
       - [Small Molecular](#Small_Molecular)
       - [Protien](#Protien)
-  - [Convolutional Graph Neural Networks](#cgnn)
-  - [Graph Autoencoders](#gae)
-  	  - [Network Embedding](#ne)
-  	  - [Graph Generation](#gg)
-  - [Spatial-Temporal Graph Neural Networks](#stgnn)
-  - [Application](#application)
-     - [Computer Vision](#cv)
-     - [Natural Language Processing](#nlp)
-     - [Internet](#web)
-     - [Recommender Systems](#rec)
-     - [Healthcare](#health)
-     - [Chemistry](#chemistry)
-     - [Physics](#physics)
-     - [Others](#others)
-- [Library](#library)
+  - [Chemical Reaction Prediction](#Reaction)
+      - [Prediction of General Chemical Reaction](#General)
+      - [Prediction of Specific Types of Chemical Reactions](#Specific)
+  - [Molecule Generation](#Generation)
+      - [Based on GAN](#GAN)
+  	  - [Based on VAE](#VAE)
+      - [Based on Autoregression](#Autoregression)
+      - [Based on Invertible Flow](#Flow)
+      - [Based on Chemical Reaction](#Reaction)
+   - [Interaction & Association Prediction](#Interaction)
+      - [Drug-Target Interaction](#DTI)
+      - [Drug-Drug Interaction](#DDI)
+      - [Protien-Protein Interaction](#PPI)
+      - [Solute-Solvent Interaction](#SSI)
+      - [Disease-lncRNA Association](#DlA)
+      - [Drug-miRNA Association](#DmA)
+      - [Disease-Gene Association](#DGA)
+
+
 <a name="Review" />
 
 ## Review
 <a name="Articles" />
 
-## articles
+## Articles
 <a name="Properties" />
 
 ## Prediction of Molecular Properties
 <a name="Small_Molecular" />
 
 ### Small Molecular
+<a name="Protien" />
+
+### Protien
+<a name="Reaction" />
+
+## Chemical Reaction Prediction
+<a name="General" />
+
+### Prediction of General Chemical Reaction
+<a name="Specific" />
+
+### Prediction of Specific Types of Chemical Reactions
+
+## Molecule Generation
