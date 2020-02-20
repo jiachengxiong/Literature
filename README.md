@@ -3,8 +3,10 @@ This is a collection of recent parpers of graph neural network applied in drug d
 
 ## Contents
 - [Review](#Review)
-- [articles](#articles)
-  - [Recuurent Graph Neural Networks](#rgnn)
+- [Articles](#Articles)
+  - [Prediction of Molecular Properties](#Properties)
+      - [Small Molecular](#Small Molecular)
+      - [Protien](#Protien)
   - [Convolutional Graph Neural Networks](#cgnn)
   - [Graph Autoencoders](#gae)
   	  - [Network Embedding](#ne)
@@ -23,8 +25,12 @@ This is a collection of recent parpers of graph neural network applied in drug d
 <a name="Review" />
 
 ## Review
-<a name="articles" />
+<a name="Articles" />
 
 ## articles
+<a name="Properties" />
 
-## predict molecule's properties
+## Prediction of Molecular Properties
+<a name="Small Molecular" />
+
+### Small Molecular
