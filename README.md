@@ -1,2 +1,2 @@
-# Literature
-Recent application of graph neural network in drug discovery
+# GNN in Drug Discovery
+This is a collection of recent parpers of graph neural network applied in drug discovery
