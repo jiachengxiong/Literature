@@ -38,7 +38,7 @@ This is a collection of recent parpers of graph neural network applied in drug d
 <a name="Small_Molecular" />
 
 ### Small Molecular
-1. **Convolutional networks on graphs for learning molecular fingerprints.** *Advances in neural information processing systems.* ***2015***. [Link](https://papers.nips.cc/paper/5954-convolutional-networks-on-graphs-for-learning-molecular-fingerprints.pdf)
+1. **Convolutional networks on graphs for learning molecular fingerprints.** *NIPS.* ***2015***. [Link](https://papers.nips.cc/paper/5954-convolutional-networks-on-graphs-for-learning-molecular-fingerprints.pdf)
 1. **Molecular graph convolutions: moving beyond fingerprints.** *J. Comput.-Aided Mol. Des.* ***2016***. [Link](https://link.springer.com/article/10.1007%2Fs10822-016-9938-8)
 1. **Neural message passing for quantum chemistry.** JMLR. ***2017.*** [Link](https://arxiv.org/pdf/1704.01212.pdf)
 1. **Deeply learning molecular structure-property relationships using attention- and gate-augmented graph convolutional network.** *arXiv.* ***2018.*** [Link](https://arxiv.org/pdf/1805.10988.pdf)
