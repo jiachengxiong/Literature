@@ -68,6 +68,8 @@ This is a collection of recent parpers of graph neural network applied in drug d
 1. **Building attention and edge message passing neural networks for bioactivity and physical–chemical property prediction.** *J CHEMINFORMATICS.* ***2020.*** [Link](https://link.springer.xilesou.top/article/10.1186/s13321-019-0407-y)
 <a name="Protien" />
 
+1. **A deep learning approach to antibiotic discovery.** *CELL.* ***2020*** [Link](https://www.sciencedirect.com/science/article/pii/S0092867420301021)
+
 ### Protien
 
 1. **Structural learning of proteins using graph convolutional neural networks.** *bioRxiv.* ***2019.*** [Link](https://www.biorxiv.org/content/biorxiv/early/2019/04/16/610444.full.pdf)
