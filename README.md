@@ -101,7 +101,7 @@ This is a collection of recent parpers of graph neural network applied in drug d
 ### Based on VAE
 1. **Graphvae: Towards generation of small graphs using variational autoencoders.** *ICANN.* ***2018.*** [Link](https://arxiv.xilesou.top/pdf/1802.03480.pdf)
 
-2. **Efficient learning of non-autoregressive graph variational autoencoders for molecular graph generation.** *J CHEMINFORMATICS.* ***2019.*** [Link](https://link.springer.xilesou.top/)
+2. **Efficient learning of non-autoregressive graph variational autoencoders for molecular graph generation.** *J CHEMINFORMATICS.* ***2019.*** [Link](https://jcheminf.biomedcentral.com/track/pdf/10.1186/s13321-019-0396-x)
 
 3. **Junction tree variational autoencoder for molecular graph generation.** *PMLR.* ***2018.*** [Link](http://proceedings.mlr.press/v80/jin18a/jin18a.pdf)
 
