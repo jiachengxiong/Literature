@@ -117,7 +117,10 @@ This is a collection of recent parpers of graph neural network applied in drug d
 
 2. **Graph convolutional policy network for goal-directed molecular graph generation.** *NIPS.* ***2018.*** [Link](http://papers.nips.cc/paper/7877-graph-convolutional-policy-network-for-goal-directed-molecular-graph-generation.pdf)
 
+3. **Multi-objective de novo drug design with conditional graph generative model.** *J CHEMINFORMATICS.* ***2018.*** [Link](https://link.springer.com/article/10.1186/s13321-018-0287-6#author-information)
+
 1. **MolecularRNN: Generating realistic molecular graphs with optimized properties.** *aRxiv.* ***2019.*** [Link](https://arxiv.xilesou.top/pdf/1905.13372.pdf)
+
 
 <a name="Flow" />
 
@@ -179,7 +182,7 @@ This is a collection of recent parpers of graph neural network applied in drug d
 <a name="DlA" />
 
 ### Disease-lncRNA Association
-2. **Graph convolutional network and convolutional neural network based method for predicting lncRNA-disease associations.** *Cells.* ***2019.*** [Link](http://papers.nips.cc/paper/7231-protein-interface-prediction-using-graph-convolutional-networks.pdf)
+1. **Graph convolutional network and convolutional neural network based method for predicting lncRNA-disease associations.** *Cells.* ***2019.*** [Link](http://papers.nips.cc/paper/7231-protein-interface-prediction-using-graph-convolutional-networks.pdf)
 <a name="DmA" />
 
 ### Drug-miRNA Association
@@ -188,6 +191,4 @@ This is a collection of recent parpers of graph neural network applied in drug d
 
 ### Disease-Gene Association
 1. **GCN-MF: Disease-gene association identification by graph convolutional networks and matrix factorization.** *KDD.* ***2019.*** [Link](https://dl.acm.org/doi/abs/10.1145/3292500.3330912)
-
-
 
