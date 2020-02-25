@@ -22,6 +22,7 @@ This is a collection of recent parpers of graph neural network applied in drug d
       - [Drug-Drug Interaction](#DDI)
       - [Protien-Protein Interaction](#PPI)
       - [Solute-Solvent Interaction](#SSI)
+      - [RNA-Protein Interaction](#RPI)
       - [Disease-lncRNA Association](#DlA)
       - [Drug-miRNA Association](#DmA)
       - [Disease-Gene Association](#DGA)
@@ -84,7 +85,9 @@ This is a collection of recent parpers of graph neural network applied in drug d
 
 2. **A graph-convolutional neural network model for the prediction of chemical reactivity.** *CHEM SCI.* ***2019.*** [Link](https://pubsrsc.xilesou.top/lv/content/articlehtml/2019/sc/c8sc04228d)
 
-3. **Integrating deep neural networks and symbolic inference for organic reactivity prediction.** *chemArix.* ***2020.*** [Link](https://chemrxiv.org/articles/Integrating_Deep_Neural_Networks_and_Symbolic_Inference_for_Organic_Reactivity_Prediction/11659563)
+3. **Graph transformation policy network for chemical reaction prediction.** *KDD.* ***2019.*** [Link](https://dl.acm.org/doi/abs/10.1145/3292500.3330958)
+
+4. **Integrating deep neural networks and symbolic inference for organic reactivity prediction.** *chemArix.* ***2020.*** [Link](https://chemrxiv.org/articles/Integrating_Deep_Neural_Networks_and_Symbolic_Inference_for_Organic_Reactivity_Prediction/11659563)
 <a name="Specific" />
 
 ### Prediction of Specific Types of Chemical Reactions
@@ -103,13 +106,15 @@ This is a collection of recent parpers of graph neural network applied in drug d
 ### Based on VAE
 1. **Graphvae: Towards generation of small graphs using variational autoencoders.** *ICANN.* ***2018.*** [Link](https://arxiv.xilesou.top/pdf/1802.03480.pdf)
 
-2. **Efficient learning of non-autoregressive graph variational autoencoders for molecular graph generation.** *J CHEMINFORMATICS.* ***2019.*** [Link](https://jcheminf.biomedcentral.com/track/pdf/10.1186/s13321-019-0396-x)
-
 3. **Junction tree variational autoencoder for molecular graph generation.** *PMLR.* ***2018.*** [Link](http://proceedings.mlr.press/v80/jin18a/jin18a.pdf)
 
-4. **Core: Automatic molecule optimization using copy & refine strategy.** *AAAI.* ***2020.*** [Link](https://arxiv.xilesou.top/pdf/1912.05910.pdf)
+2. **Efficient learning of non-autoregressive graph variational autoencoders for molecular graph generation.** *J CHEMINFORMATICS.* ***2019.*** [Link](https://jcheminf.biomedcentral.com/track/pdf/10.1186/s13321-019-0396-x)
 
 5. **Hierarchical graph-to-graph translation for molecules.** *aRxiv.* ***2019.*** [Link](https://arxiv.org/pdf/1907.11223.pdf)
+
+5. **Learning Multimodal Graph-to-graph Translation For Molecular Optimization.** *ICLR.* ***2019.*** [Link](https://arxiv.xilesou.top/pdf/1812.01070.pdf)
+
+4. **Core: Automatic molecule optimization using copy & refine strategy.** *AAAI.* ***2020.*** [Link](https://arxiv.xilesou.top/pdf/1912.05910.pdf)
 
 <a name="Autoregression" />
 
@@ -153,7 +158,9 @@ This is a collection of recent parpers of graph neural network applied in drug d
 
 6. **Predicting drug−target interaction using a novel graph neural network with 3d structure-embedded graph representation.** *J CHEM INF MODEL.* ***2019.*** [Link](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.9b00387)
 
-7. **Target identiﬁcation among known drugs by deep learning from heterogeneous networks.** *CHEM SCI.* ***2019.*** [Link](https://pubsrsc.xilesou.top/en/content/articlehtml/2020/sc/c9sc04336e)
+7. **AGL-Score: Algebraic graph learning score for protein−ligand binding scoring, ranking, docking, and screening.** *J CHEM INF MODEL.* ***2019.*** [Link](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00334)
+
+7. **Target identiﬁcation among known drugs by deep learning from heterogeneous networks.** *CHEM SCI.* ***2020.*** [Link](https://pubsrsc.xilesou.top/en/content/articlehtml/2020/sc/c9sc04336e)
 
 <a name="DDI" />
 
@@ -179,6 +186,11 @@ This is a collection of recent parpers of graph neural network applied in drug d
 
 ### Solute-Solvent Interaction
 1. **Chemically interpretable graph interaction network for prediction of pharmacokinetic properties of drug-like molecules.** *chemRxiv.* ***2020.*** [Link](https://chemrxiv.org/articles/Chemically_Interpretable_Graph_Interaction_Network_for_Prediction_of_Pharmacokinetic_Properties_of_Drug-like_Molecules/10282346)
+
+<a name="RPI" />
+### RNA-Protein Interaction
+1. **Graph neural representational learning of RNA secondary structures for predicting RNA-protein interactions.** *bioRxiv.* ***2020.*** [Link](https://www.biorxiv.org/content/10.1101/2020.02.11.931030v1.full.pdf)
+
 <a name="DlA" />
 
 ### Disease-lncRNA Association
