@@ -188,6 +188,7 @@ This is a collection of recent parpers of graph neural network applied in drug d
 1. **Chemically interpretable graph interaction network for prediction of pharmacokinetic properties of drug-like molecules.** *chemRxiv.* ***2020.*** [Link](https://chemrxiv.org/articles/Chemically_Interpretable_Graph_Interaction_Network_for_Prediction_of_Pharmacokinetic_Properties_of_Drug-like_Molecules/10282346)
 
 <a name="RPI" />
+
 ### RNA-Protein Interaction
 1. **Graph neural representational learning of RNA secondary structures for predicting RNA-protein interactions.** *bioRxiv.* ***2020.*** [Link](https://www.biorxiv.org/content/10.1101/2020.02.11.931030v1.full.pdf)
 
@@ -203,4 +204,6 @@ This is a collection of recent parpers of graph neural network applied in drug d
 
 ### Disease-Gene Association
 1. **GCN-MF: Disease-gene association identification by graph convolutional networks and matrix factorization.** *KDD.* ***2019.*** [Link](https://dl.acm.org/doi/abs/10.1145/3292500.3330912)
+
+
 
