@@ -121,11 +121,11 @@ This is a collection of recent parpers of graph neural network applied in drug d
 
 ### Based on Autoregression
 
-2. **Graph convolutional policy network for goal-directed molecular graph generation.** *NIPS.* ***2018.*** [Link](http://papers.nips.cc/paper/7877-graph-convolutional-policy-network-for-goal-directed-molecular-graph-generation.pdf)
+1. **Graph convolutional policy network for goal-directed molecular graph generation.** *NIPS.* ***2018.*** [Link](http://papers.nips.cc/paper/7877-graph-convolutional-policy-network-for-goal-directed-molecular-graph-generation.pdf)
 
-3. **Multi-objective de novo drug design with conditional graph generative model.** *J CHEMINFORMATICS.* ***2018.*** [Link](https://link.springer.com/article/10.1186/s13321-018-0287-6#author-information)
+2. **Multi-objective de novo drug design with conditional graph generative model.** *J CHEMINFORMATICS.* ***2018.*** [Link](https://link.springer.com/article/10.1186/s13321-018-0287-6#author-information)
 
-1. **MolecularRNN: Generating realistic molecular graphs with optimized properties.** *aRxiv.* ***2019.*** [Link](https://arxiv.xilesou.top/pdf/1905.13372.pdf)
+3. **MolecularRNN: Generating realistic molecular graphs with optimized properties.** *aRxiv.* ***2019.*** [Link](https://arxiv.xilesou.top/pdf/1905.13372.pdf)
 
 
 <a name="Flow" />
