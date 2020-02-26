@@ -30,6 +30,7 @@ This is a collection of recent parpers of graph neural network applied in drug d
 <a name="Review" />
 
 # Review
+1. **Graph convolutional networks for computational drug development and discovery.** *BRIEF BIOINFORM.* ***2019.*** [Link](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbz042/5498046)
 <a name="Articles" />
 
 # Articles
