@@ -11,6 +11,7 @@ This is a collection of recent parpers of graph neural network applied in drug d
   - [Chemical Reaction Prediction](#Reaction)
       - [Prediction of General Chemical Reaction](#General)
       - [Prediction of Specific Types of Chemical Reactions](#Specific)
+      - [Prediction of Retrosynthesis ](#Retros)
   - [Molecule Generation](#Generation)
       - [Based on GAN](#GAN)
       - [Based on VAE](#VAE)
@@ -93,6 +94,12 @@ This is a collection of recent parpers of graph neural network applied in drug d
 
 ### Prediction of Specific Types of Chemical Reactions
 1. **Rapid and accurate prediction of pka values of C–H acids using graph convolutional neural networks.** *JACS.* ***2019.*** [Link](https://pubs.acs.org/doi/abs/10.1021/jacs.9b05895)
+
+<a name="Retros" />
+
+### Prediction of Retrosynthesis
+1.  **Interpretable retrosynthesis prediction in two steps.** *ChemRxiv.* ***2020.***  [Link](https://chemrxiv.org/articles/Interpretable_Retrosynthesis_Prediction_in_Two_Steps/11869692)
+
 <a name="Generation" />
 
 ## Molecule Generation
