@@ -2,9 +2,11 @@
 ====  
 This is a collection of recent parpers of graph neural network applied in drug discovery
 
+
 # Contents
 - [Review](#Review)
 - [Articles](#Articles)
+  - [Unsupervised Learning](#Unsupervised)
   - [Property Prediction](#Properties)
       - [Small Molecular](#Small_Molecular)
       - [Protien](#Protien)
@@ -35,6 +37,12 @@ This is a collection of recent parpers of graph neural network applied in drug d
 <a name="Articles" />
 
 # Articles
+
+<a name="Unsupervised" />
+
+## Unsupervised Learning
+1. **Strategies For Pre-training Graph Neural Networks.** *ICLR.* ***2020.*** [Link](https://arxiv.org/pdf/1905.12265.pdf)
+
 <a name="Properties" />
 
 ## Prediction of Molecular Properties
