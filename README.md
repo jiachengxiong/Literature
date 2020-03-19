@@ -6,7 +6,7 @@ This is a collection of recent parpers of graph neural network applied in drug d
 # Contents
 - [Review](#Review)
 - [Articles](#Articles)
-  - [Unsupervised Learning](#Unsupervised)
+  - [Self-Supervised Learning](#Self)
   - [Property Prediction](#Properties)
       - [Small Molecular](#Small_Molecular)
       - [Protien](#Protien)
@@ -38,9 +38,9 @@ This is a collection of recent parpers of graph neural network applied in drug d
 
 # Articles
 
-<a name="Unsupervised" />
+<a name="Self" />
 
-## Unsupervised Learning
+## Self-Supervised Learning
 1. **Strategies For Pre-training Graph Neural Networks.** *ICLR.* ***2020.*** [Link](https://arxiv.org/pdf/1905.12265.pdf)
 
 <a name="Properties" />
